@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87a8a71d-6919-43b0-bdad-0ec79c136f6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1jVx4hymBGLNhCYKQAOmoRg680A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ServerApp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\go-work\src\ClientApplication\Lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build ClientApplication" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ClientApplication" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="ClientApplication" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604306165370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604306165370" />
+    <state width="1286" height="143" key="GridCell.Tab.0.bottom" timestamp="1604310690323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604310690323" />
+    <state width="1286" height="143" key="GridCell.Tab.0.center" timestamp="1604310690323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604310690323" />
+    <state width="1286" height="143" key="GridCell.Tab.0.left" timestamp="1604310690323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604310690323" />
+    <state width="1286" height="143" key="GridCell.Tab.0.right" timestamp="1604310690323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604310690323" />
+  </component>
+</project>
